@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: logo2.png      
+      title: Quantum Artificial Intelligence Biotechnology      
       image:
         filename: Dallepicture.JPEG
       text: |

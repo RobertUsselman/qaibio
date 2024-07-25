@@ -18,15 +18,15 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+    description: 'Quantum Biology Artificial Intelligence Biotechnology'
     twitter: 'GetResearchDev'
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-2JLN8TMLMZ'
     baidu_tongji: ''
-    google_tag_manager: ''
+    google_tag_manager: 'G-2JLN8TMLMZ'
     microsoft_clarity: ''
   verification:
-    google: ''
+    google: 'G-2JLN8TMLMZ'
     baidu: ''
 
 # Site header
