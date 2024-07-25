@@ -41,7 +41,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:robert.usselman@fit.edu'
+    link: 'mailto:russelman@fit.edu'
   - icon: x
     icon_pack: fab
     link: https://x.com/RobertUsselman

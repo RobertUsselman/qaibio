@@ -7,15 +7,13 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-        Wowchemy
-        Research Group
+      title: qaibio      
       image:
-        filename: welcome.jpg
+        filename: welcomeDallepicture.JPEG
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        The **Usselman Research Group** at Florida Institute of Technology is pioneering novel instrumentation for quantum, artificial intelligence, and biotechnology.
   
   - block: collection
     content:
@@ -45,7 +43,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: Moleculestest.jpg
           filters:
             brightness: 1
           parallax: false
