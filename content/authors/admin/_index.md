@@ -1,41 +1,38 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Robert Usselman
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Robert
+last_name: Usselman
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Chemistry and Chemical Engineering
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: Florida Institute of Technology
+    url: 'https://www.fit.edu/faculty-profiles/u/robert-j-usselman/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Multidisciplinary research interests at the intersection of quantum, artificial intelligence, and biotechnology.
 
 interests:
+  - Quantum
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Biotechnology
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Chemistry
+      institution: Montana State University
+      year: 2005    - 
+    - course: BA in Chemistry
+      institution: Concordia College
+      year: 1999
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,16 +41,19 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
+    link: 'mailto:robert.usselman@fit.edu'
+  - icon: x
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://x.com/RobertUsselman
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://scholar.google.com/citations?hl=en&user=WtXnSfcAAAAJ&view_op=list_works&sortby=pubdate
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/RobertUsselman
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/robert-usselman-00400a72/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'russelman@fit.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -72,6 +72,4 @@ user_groups:
   - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Robert Usselman is an assistant professor of Chemistry and Chemical Engineering at Florida Institute of Technology. The Usselman group uses advanced magnetic resonance and optical microscopy techniques to address bio-physical chemistry problems in the areas of chemical biology, biomaterials, and redox biochemistry.  We aim to develop novel methodologies and instrumentation that address the fundamental gap in knowledge between physical measurements and theoretical models for bio-engineered systems operating at the quantum/classical interface.  We seek to understand how quantum properties play governing roles in biological function and apply theory-driven predictions of quantum biology for multi-scale integration of cellular function. 
