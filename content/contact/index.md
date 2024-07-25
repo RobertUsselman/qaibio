@@ -56,7 +56,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: Dallepicture.PJEG
+          filename: Dallepicture.JPEG
           filters:
             brightness: 1
           parallax: false
