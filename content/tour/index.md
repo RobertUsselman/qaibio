@@ -18,18 +18,18 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
+      - title: Coffee ☕️
         content: 'Share your knowledge with the group and explore exciting new topics together!'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: icon.png
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: World-Class Lab
+        content: 'Launching new website!'
         align: right
         background:
           image:
