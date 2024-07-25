@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-      - course: BSc in Chemistry
+    - course: BSc in Chemistry
       institution: 
       year: 
 
