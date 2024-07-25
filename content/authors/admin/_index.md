@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 
 Robert Usselman is an assistant professor of Chemistry and Chemical Engineering at Florida Institute of Technology. The Usselman group uses advanced magnetic resonance and optical microscopy techniques to address bio-physical chemistry problems in the areas of chemical biology, biomaterials, and redox biochemistry.  We aim to develop novel methodologies and instrumentation that address the fundamental gap in knowledge between physical measurements and theoretical models for bio-engineered systems operating at the quantum/classical interface.  We seek to understand how quantum properties play governing roles in biological function and apply theory-driven predictions of quantum biology for multi-scale integration of cellular function. 
