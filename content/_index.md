@@ -6,9 +6,9 @@ type: landing
 
 sections:
   - block: hero
-    content:
+    content:  qaibio1
       title: qaibio      
-      image:
+      image: qaibio2
         filename: Dallepicture.JPEG
       text: |
         <br>
