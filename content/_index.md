@@ -7,7 +7,7 @@ type: landing
 sections:
   - block: hero
     content:
-      title: Quantum Artificial Intelligence Biotechnology      
+      title: qaibio      
       image:
         filename: Dallepicture.JPEG
       text: |
